@@ -4,6 +4,8 @@ Using a MEXC referral code is a simple process that can instantly unlock trading
 
 Here's how to properly use your code:
 
+https://www.mexc.com/register?inviteCode=mexc-zzz
+
 Sign Up on MEXC: Create an account on the MEXC website or app using your email or phone number to start trading securely.
 
 Enter Code: During registration, enter referral code "mexc-zzz" to receive a 20% discount on all future trading fees automatically, or simply click the referral link to have the code added.
