@@ -16,3 +16,4 @@ Deposit 100 USDT: Add at least 100 USDT via crypto, P2P, or fiat to qualify for 
 
 Start Trading on MEXC: Trade on spot, DEX, or futures markets to enjoy discounted fees (-20%) while helping your referrer earn ongoing commission rewards.
 
+![Image](https://github.com/user-attachments/assets/111b64c7-76d2-408a-b9a1-f989b6e8a8a8)
