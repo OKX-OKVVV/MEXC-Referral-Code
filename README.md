@@ -1,4 +1,6 @@
-### **How to Use a MEXC Referral Code**
+# **Sign up with MEXC and get 20% off trading fees**
+
+**How to Use a MEXC Referral Code**
 
 Using a MEXC referral code is a simple process that can instantly unlock trading benefits and rewards whether you're signing up for the first time or helping a friend join.
 
